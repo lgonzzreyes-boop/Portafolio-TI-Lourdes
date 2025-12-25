@@ -1,6 +1,6 @@
 # 🛡️ Portafolio de TI y Ciberseguridad - Lourdes González
 
-¡Hola! 👋 Soy Lourdes, profesional en transición hacia la Ciberseguridad y Soporte TI.
+¡Hola! Soy Lourdes, profesional en transición hacia la Ciberseguridad y Soporte TI.
 En este repositorio documento mis prácticas técnicas, laboratorios y análisis de redes.
 
 ## 📂 Proyectos y Laboratorios
