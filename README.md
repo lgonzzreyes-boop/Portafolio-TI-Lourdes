@@ -12,3 +12,8 @@ En este repositorio documento mis prácticas técnicas, laboratorios y análisis
 
 ---
 *Este portafolio está en construcción continua. *
+
+### 2. 🎫 Simulación de Gestión de Incidentes (Service Desk)
+**Tecnologías:** Trello (Gestión de Tickets), Análisis de Malware, SLA.
+**Descripción:** Simulación del ciclo de vida de un incidente crítico (Nivel 1). Incluye recepción, categorización, diagnóstico de consumo de recursos y resolución documentada.
+- 📄 **[Ver Reporte PDF](./Portafolio_LourdesGonzalez_SimulacionTicket.pdf)**
